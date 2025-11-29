@@ -2,96 +2,94 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Weiyi Zhao (赵魏一)
+    - name: Title
+      value: Assistant Professor of Finance, ZUEL
+    - name: Contact
+      value: weiyi.zhao@zuel.edu.cn · (+86)131-4636-0566
+
+- title: Research Interests
+  type: list
+  contents:
+    - Empirical Asset Pricing
+    - FinTech and Digital Platforms
+    - Tokenomics
+    - AI and Asset Pricing
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Economics
+      institution: Tsinghua University, School of Social Sciences, Beijing, China
+      year: 2018 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Institute of Economics
+    - title: Bachelor of Economics in Financial Engineering
+      institution: Wuhan University, School of Economics and Management, Wuhan, China
+      year: 2014 - 2018
 
-- title: Experience
+- title: Academic Positions
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor & Master Supervisor (Sep. 2025 – Present)
+      institution: School of Finance, Zhongnan University of Economics and Law
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Conducting research on token-based market design, fintech regulation, and AI-enabled factor models.
+    - title: External Member
+      institution: Cornell University Digital Economy and Financial Technology Lab
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Collaborate on cross-border projects in digital finance and blockchain economics.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Publications & Working Papers
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Property Rights System of Land, Housing Price Structure and Wealth Inequality, 2025, China Journal of Economics (with Danxia Xie, Buyuan Yang, Qingquan Zhang).
+    - Economic Analysis of Public Health Reform..., 2023, China Journal of Economics (with Danxia Xie, Peilin Liu, Buyuan Yang).
+    - Platform Macro Risks and Platform Antitrust, 2022, Financial Review (with Danxia Xie, Yao Li, Liyang Yang).
+    - Crypto Value, Factor Pricing, and Market Segmentation, 2022, Management Science (R&R) (with Lin William Cong, George A. Karolyi, Ke Tang).
+    - Asymmetric Cross-side Network Effects on Financial Platforms..., 2024, NBER/Submitted to RFS (with Lin William Cong, Ke Tang, Danxia Xie).
+    - Regulatory Sandboxes and FinTech Financing..., 2025 (with Xuemeng Sun, Qingquan Zhang, Danxia Xie).
+
+- title: Conference Presentations
+  type: list
+  contents:
+    - 2025: Econometric Society World Congress; FMA Annual Meeting (Vancouver).
+    - 2024: Cryptocurrency Research Conference; 19th CAPFM; China Tech-Fin Research Conference.
+    - 2023: Conference on Asia-Pacific Financial Markets.
+    - 2022: FMA, ABFER, Asian Finance Association, China Fintech, CBER, EFMA (Rome), SIF, UWA Blockchain.
+    - 2021: TAU Blockchain Research Institute; Institutional Economics Annual Meeting; China Urban Economist Forum.
+    - 2020: Tsinghua University China Economic Seminar.
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Machine Learning and Quantitative Investment
+      institution: Zhongnan University of Economics and Law
+      year: Fall 2025
+    - title: Teaching Assistant – Intermediate Macroeconomics
+      institution: Tsinghua University, School of Social Sciences
+      year: Spring 2022, Spring 2023
+    - title: Teaching Assistant – Advanced Microeconomics II; Law and Economics
+      institution: Tsinghua University, School of Economics and Management
+      year: Spring 2020, Spring 2021; Fall 2021
+
+- title: Research Grants
+  type: list
+  contents:
+    - PI – NSFC (Grant 72503258): Pricing Mechanism and Risk Spillover Effects of Platform Tokens (2026-2028, 300,000 CNY).
+    - PI – China Postdoctoral Science Foundation (Grant 2025M773717): Digital Asset Pricing with Blockchain Features (2025-2027, 50,000 CNY).
+    - Co-I – NSFC (Grant 72373079): Economic Growth and Population Dynamics in the Digital Age (2024-2027).
+    - Co-I – NSFC (Grant 71973076): Digital Platforms, Social Welfare, and Financial Stability (2020-2023).
+    - Co-I – Tsinghua Independent Research Project: Social Effects of Epidemic Prevention and Control (2022-2023).
+
+- title: Selected Honors & Awards
+  type: list
+  contents:
+    - 2024 China Tech-Fin Research Conference – Best Paper Award (First Prize).
+    - 2023 National Doctoral Student Academic Forum in Finance – First Prize for Outstanding Paper.
+    - 2022 WRDS-EFMA Best Conference Award.
+    - 2021 Tel Aviv University Blockchain Research Institute – Best Paper Award.
+    - 2020-2022 Tsinghua University Comprehensive / LIMU Scholarships.
+    - 2016-2017 Wuhan University Comprehensive / JINGLIN Scholarships.

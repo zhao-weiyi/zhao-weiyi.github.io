@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Course design and instructional experience across ZUEL and Tsinghua University.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Zhongnan University of Economics and Law
+- **Machine Learning and Quantitative Investment (Fall 2025)**: Graduate elective pairing modern ML pipelines with buy-side case studies and reproducible Python labs.
 
-Organize your courses by years, topics, or universities, however you like!
+### Tsinghua University – School of Social Sciences
+- **Intermediate Macroeconomics (Spring 2022 & 2023)**: Led tutorials, recitations, and computational problem sets for undergraduate cohorts of 120+ students.
+
+### Tsinghua University – School of Economics and Management
+- **Advanced Microeconomics II (Spring 2020 & 2021)**: Coordinated homework design, discussion sections, and exam review for master’s students.
+- **Law and Economics (Fall 2021)**: Developed policy debates and empirical labs linking regulation with market design.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research highlights
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Active research programs, grants, and collaborations.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [tokenomics, digital-finance, teaching]
 horizontal: false
 ---
 
