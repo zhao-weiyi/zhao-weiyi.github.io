@@ -11,21 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "Split view between peer-reviewed publications and current working papers.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
-          description: "Full CV for Weiyi Zhao, Assistant Professor at School of Finance, Zhongnan University of Economics and Law.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Course design and instructional experience across ZUEL and Tsinghua University.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
