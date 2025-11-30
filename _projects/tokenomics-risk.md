@@ -12,6 +12,6 @@ We study how governance design, staking incentives, and liquidity mining policie
 
 - PI: Weiyi Zhao (Grant No. 72503258)
 - Collaborators: Danxia Xie (Tsinghua), Qingquan Zhang (ZUEL)
-- Funding: 300,000 CNY · 2026–2028
+- Funding: 2026–2028
 
 Key deliverables include predictive signals for factor investing, a regulatory sandbox evaluation toolkit, and open-source code for measuring token-based spillovers.
