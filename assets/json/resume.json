@@ -2,7 +2,7 @@
   "basics": {
     "name": "Weiyi Zhao",
     "label": "Assistant Professor of Finance",
-    "email": "weiyi.zhao@zuel.edu.cn",
+    "email": "weiyi_zhao@zuel.edu.cn",
     "phone": "+86 131-4636-0566",
     "summary": "Assistant Professor at Zhongnan University of Economics and Law focusing on empirical asset pricing, digital finance, and token-based market design.",
     "location": {
@@ -16,39 +16,16 @@
       "name": "School of Finance, Zhongnan University of Economics and Law",
       "position": "Assistant Professor",
       "startDate": "2024-07",
-      "summary": "Researches empirical asset pricing, fintech, and tokenomics while advising graduate researchers.",
+      "summary": "Researches empirical asset pricing, fintech, and tokenomics while advising graduate students.",
       "highlights": [
         "Master Supervisor beginning 2025-09"
       ]
     },
     {
-      "name": "Cornell University Digital Economy and Financial Technology Lab",
+      "name": "Cornell University Digital Economics and Financial Technology Lab",
       "position": "External Member",
+      "startDate": "2023-05",
       "summary": "Collaborates with DEFT Lab faculty on cross-border projects in digital finance and blockchain economics."
-    },
-    {
-      "name": "Zhongnan University of Economics and Law",
-      "position": "Instructor",
-      "startDate": "2025-09",
-      "summary": "Designing and teaching the Machine Learning and Quantitative Investment course for graduate finance students."
-    },
-    {
-      "name": "Tsinghua University, School of Social Sciences",
-      "position": "Teaching Assistant",
-      "startDate": "2022-02",
-      "endDate": "2023-06",
-      "summary": "Led tutorials and grading for Intermediate Macroeconomics across two academic years."
-    },
-    {
-      "name": "Tsinghua University, School of Economics and Management",
-      "position": "Teaching Assistant",
-      "startDate": "2020-02",
-      "endDate": "2021-12",
-      "summary": "Supported Advanced Microeconomics II and Law and Economics courses, coordinating discussion sessions and assessments.",
-      "highlights": [
-        "Advanced Microeconomics II (Spring 2020, Spring 2021)",
-        "Law and Economics (Fall 2021)"
-      ]
     }
   ],
   "education": [
@@ -112,18 +89,20 @@
       "publisher": "Financial Review",
       "releaseDate": "2022",
       "summary": "With Danxia Xie, Yao Li, and Liyang Yang."
-    },
+    }
+  ],
+  "working papers": [
     {
       "name": "Crypto Value, Factor Pricing, and Market Segmentation",
       "publisher": "Management Science (revise and resubmit)",
       "releaseDate": "2022",
-      "summary": "Working paper with Lin William Cong, George Andrew Karolyi, and Ke Tang; recognized with best paper awards at the National Doctoral Student Forum, EFMA Annual Meeting, and Tel Aviv University Blockchain Research Institute Conference."
+      "summary": "With Lin William Cong, George Andrew Karolyi, and Ke Tang;<br>Best paper awards at the 2023 National Doctoral Student Forum, 2022 EFMA Annual Meeting, and 2021 Tel Aviv University Blockchain Research Institute Conference."
     },
     {
       "name": "Asymmetric Cross-side Network Effects on Financial Platforms: Theory and Evidence from Marketplace Lending",
       "publisher": "NBER Working Paper; submitted to Review of Financial Studies",
       "releaseDate": "2024",
-      "summary": "With Lin William Cong, Ke Tang, and Danxia Xie; Best Paper Award at the 2024 China Tech-Fin Research Conference."
+      "summary": "With Lin William Cong, Ke Tang, and Danxia Xie;<br>Best Paper Award at the 2024 China Tech-Fin Research Conference."
     },
     {
       "name": "Regulatory Sandboxes and FinTech Financing: Exposure Effect or Information Effect?",

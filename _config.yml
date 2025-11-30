@@ -7,7 +7,7 @@ first_name: Weiyi
 middle_name:
 last_name: Zhao
 contact_note: >
-  Tel: (+86)131-4636-0566 · weiyi.zhao@zuel.edu.cn
+  Tel: (+86)131-4636-0566 · weiyi_zhao@zuel.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Assistant Professor of Finance focusing on empirical asset pricing, digital finance, and tokenomics.
 footer_text: >
@@ -48,7 +48,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -628,6 +628,7 @@ jsonresume:
   - work
   - education
   - publications
+  - "working papers"
   - projects
   - volunteer
   - awards

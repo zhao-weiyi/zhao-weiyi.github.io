@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Paper Award at China Tech-Fin Research Conference
-date: 2024-07-15 14:00:00 +0800
+date: 2024-12-07 14:00:00 +0800
 inline: true
 ---
 
