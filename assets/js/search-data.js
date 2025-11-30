@@ -449,11 +449,11 @@ ninja.data = [{
           window.open("mailto:%77%65%69%79%69_%7A%68%61%6F@%7A%75%65%6C.%65%64%75.%63%6E", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://scholar.google.com/citations?user=N5HhtJYAAAAJ&hl=en", "_blank");
         },
       },{
       id: 'light-theme',
