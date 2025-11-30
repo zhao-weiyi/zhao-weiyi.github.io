@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
-          description: "Full CV for Weiyi Zhao, Assistant Professor of Finance at Zhongnan University of Economics and Law.",
+          description: "Full CV for Weiyi Zhao, Assistant Professor at School of Finance, Zhongnan University of Economics and Law.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
