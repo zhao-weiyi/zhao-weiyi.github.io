@@ -167,6 +167,14 @@
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
+      {% assign entry_link = entry.link | default: entry.url %}
+      <a
+        href="{% if entry_link %}{{ entry_link }}{% else %}#{% endif %}"
+        class="btn btn-sm z-depth-0"
+        role="button"
+      >
+        Link
+      </a>
       {% if entry.html %}
         {% if entry.html contains '://' %}
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
