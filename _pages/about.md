@@ -2,7 +2,7 @@
 layout: about
 title: Weiyi Zhao
 permalink: /
-subtitle: Assistant Professor of Finance · Empirical Asset Pricing · FinTech · Tokenomics · AI and Finance
+subtitle: Empirical Asset Pricing · FinTech · Tokenomics · AI and Finance
 
 profile:
   align: right

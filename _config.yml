@@ -9,7 +9,7 @@ last_name: Zhao
 contact_note: >
   Tel: weiyi_zhao@zuel.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Assistant Professor of Finance focusing on empirical asset pricing, digital finance, and tokenomics.
+  Assistant Professor focusing on empirical asset pricing, digital finance, and tokenomics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
