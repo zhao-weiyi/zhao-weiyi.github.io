@@ -422,6 +422,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
+          section: "News",},{id: "news-excited-to-continue-collaborating-with-cornell-s-digital-economy-and-financial-technology-lab-on-marketplace-lending-and-crypto-asset-pricing-projects",
+          title: 'Excited to continue collaborating with Cornell’s Digital Economy and Financial Technology Lab on...',
+          description: "",
           section: "News",},{id: "news-asymmetric-cross-side-network-effects-on-financial-platforms-received-first-prize-for-outstanding-paper-at-the-2024-china-tech-fin-research-conference",
           title: '“Asymmetric Cross-side Network Effects on Financial Platforms” received First Prize for Outstanding Paper...',
           description: "",
@@ -430,10 +433,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-12-01-nsfc-grant/";
-            },},{id: "news-excited-to-continue-collaborating-with-cornell-s-digital-economy-and-financial-technology-lab-on-marketplace-lending-and-crypto-asset-pricing-projects",
-          title: 'Excited to continue collaborating with Cornell’s Digital Economy and Financial Technology Lab on...',
-          description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
+            },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
