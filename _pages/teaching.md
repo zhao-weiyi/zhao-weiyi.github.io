@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Course design and instructional experience across ZUEL and Tsinghua University.
+description:
 nav: true
 nav_order: 6
 ---

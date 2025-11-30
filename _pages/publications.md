@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-description: Split view between peer-reviewed publications and current working papers.
+description:
 nav: true
 nav_order: 2
 ---
