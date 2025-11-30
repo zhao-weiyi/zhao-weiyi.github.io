@@ -626,11 +626,12 @@ jsonresume:
   - education
   - publications
   - "working papers"
-  - projects
+  - "conference presentations"
+  - "research grants"
   - volunteer
   - awards
   - certificates
   - skills
-  - languages
   - interests
   - references
+  - languages
