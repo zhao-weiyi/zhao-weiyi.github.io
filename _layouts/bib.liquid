@@ -47,8 +47,15 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+    {% assign entry_link = entry.link | default: entry.url %}
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      {% if entry_link %}
+        <a href="{{ entry_link }}">{{ entry.title }}</a>
+      {% else %}
+        {{ entry.title }}
+      {% endif %}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -174,7 +181,6 @@
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
-      {% assign entry_link = entry.link | default: entry.url %}
       <a
         href="{% if entry_link %}{{ entry_link }}{% else %}#{% endif %}"
         class="btn btn-sm z-depth-0"

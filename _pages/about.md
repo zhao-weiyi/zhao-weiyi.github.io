@@ -29,4 +29,4 @@ Hello! I am Weiyi Zhao (赵魏一), an Assistant Professor at the School of Fina
 
 I earned my Ph.D. in Economics from Tsinghua University and a B.Econ. in Financial Engineering from Wuhan University. My recent work studies how crypto assets price risk, how network effects shape platform outcomes, and how AI methods can uncover new return predictors in financial markets.
 
-If you are interested in collaborations on tokenomics, AI in finance, or platform regulation, feel free to reach out.
+If you are interested in collaborations on tokenomics, AI in finance, or platform regulation, please feel free to reach out.

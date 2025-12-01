@@ -55,12 +55,54 @@
 - title: Conference Presentations
   type: list
   contents:
-    - 2025: Econometric Society World Congress; FMA Annual Meeting (Vancouver).
-    - 2024: Cryptocurrency Research Conference; 19th CAPFM; China Tech-Fin Research Conference.
-    - 2023: Conference on Asia-Pacific Financial Markets.
-    - 2022: FMA, ABFER, Asian Finance Association, China Fintech, CBER, EFMA (Rome), SIF, UWA Blockchain.
-    - 2021: TAU Blockchain Research Institute; Institutional Economics Annual Meeting; China Urban Economist Forum.
-    - 2020: Tsinghua University China Economic Seminar.
+    - year: 2025
+      events:
+        - name: Econometric Society World Congress
+          details: Seoul, South Korea
+        - name: FMA Annual Meeting
+          details: Vancouver, Canada
+    - year: 2024
+      events:
+        - name: Cryptocurrency Research Conference
+          details: Tallinn, Estonia
+        - name: 19th Conference on Asia-Pacific Financial Markets
+          details: Seoul, South Korea
+        - name: China Tech-Fin Research Conference
+          details: Beijing, China
+    - year: 2023
+      events:
+        - name: Conference on Asia-Pacific Financial Markets
+          details: Seoul, South Korea
+    - year: 2022
+      events:
+        - name: FMA Annual Meeting
+          details: Atlanta, GA
+        - name: ABFER Annual Conference
+          details: Singapore
+        - name: Asian Finance Association Annual Meeting
+          details: Tokyo, Japan
+        - name: China Fintech Research Conference
+          details: Beijing, China
+        - name: CBER Forum
+          details: Shanghai, China
+        - name: EFMA Annual Meeting
+          details: Rome, Italy
+        - name: Summer Institute of Finance
+          details: Hong Kong, China
+        - name: UWA Blockchain and Cryptocurrency Conference
+          details: Perth, Australia
+    - year: 2021
+      events:
+        - name: Tel Aviv University Blockchain Research Institute Conference
+          details: Tel Aviv, Israel
+        - name: Institutional Economics Annual Meeting
+          details: Beijing, China
+        - name: China Urban Economist Forum
+          details: Beijing, China
+    - year: 2020
+      events:
+        - name: Tsinghua University China Economic Seminar
+          details: Beijing, China
 
 - title: Teaching Experience
   type: time_table

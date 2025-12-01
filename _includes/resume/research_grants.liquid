@@ -16,7 +16,7 @@
           </table>
         </div>
         <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
-          <h6 class="title font-weight-bold ml-1 ml-md-4">{{ grant.title }}</h6>
+          <h6 class="title font-weight-bold ml-1 ml-md-4 cv-entry-title">{{ grant.title }}</h6>
           <p class="mb-0 ml-1 ml-md-4">
             {% if grant.role %}
               {% if grant.role == 'PI' %}Principal Investigator.{% elsif grant.role == 'Co-I' %}Participant.{% else %}{{ grant.role }}.{% endif %}
