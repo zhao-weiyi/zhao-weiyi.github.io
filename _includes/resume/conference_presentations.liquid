@@ -7,7 +7,9 @@
             <tbody>
               <tr>
                 <td>
-                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ content.year }}</span>
+                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                    {{ content.year }}
+                  </span>
                 </td>
               </tr>
             </tbody>
@@ -25,12 +27,15 @@
               {% assign event_details = detail_with_paren[0] | strip %}
             {% endif %}
 
-            <div class="conference-entry ml-1 ml-md-4">
-              <span class="conference-name">{{ event_name }}</span>
+            <p class="conference-entry ml-1 ml-md-4 mb-1 cv-note">
+              <span class="conference-bullet" aria-hidden="true">
+                <i class="fa-regular fa-circle"></i>
+              </span>
+              <span>{{ event_name }}</span>
               {% if event_details != '' %}
-                <span class="conference-details">{{ event_details }}</span>
+                <span> &mdash; {{ event_details }}</span>
               {% endif %}
-            </div>
+            </p>
           {% endfor %}
         </div>
       </div>

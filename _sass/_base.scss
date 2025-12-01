@@ -540,6 +540,10 @@ footer.sticky-bottom {
   }
 }
 
+body.cv-wide .container.mt-5 {
+  max-width: 1050px;
+}
+
 .table-cv-map {
   background-color: transparent;
   border: none;
@@ -555,14 +559,10 @@ footer.sticky-bottom {
   margin-bottom: 0.5rem;
 }
 
-.conference-name {
-  color: var(--global-theme-color);
-  font-weight: 600;
-}
-
-.conference-details {
+.conference-bullet {
   color: var(--global-text-color-light);
-  display: block;
+  margin-right: 0.5rem;
+  font-size: 0.6rem;
 }
 
 // Repositories
@@ -1520,4 +1520,9 @@ figure.cover {
 
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
+}
+
+.cv-note {
+  color: var(--global-text-color);
+  font-size: 0.95rem;
 }

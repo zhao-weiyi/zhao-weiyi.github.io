@@ -3,7 +3,7 @@
     "name": "Weiyi Zhao",
     "title": "Assistant Professor",
     "email": "weiyi_zhao@zuel.edu.cn",
-    "summary": "Assistant Professor at School of Finance, Zhongnan University of Economics and Law focusing on empirical asset pricing, digital finance, and tokenomics.",
+    "summary": "Assistant Professor at School of Finance, Zhongnan University of Economics and Law focusing on empirical asset pricing, digital finance, and tokenomics, and AI in finance.",
     "location": {
       "city": "Wuhan",
       "region": "Hubei",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Cornell University Digital Economics and Financial Technology Lab",
+      "name": "Cornell University Digital Economics and Financial Technology (DEFT) Lab",
       "position": "External Member",
       "startDate": "2023-05",
       "summary": "Collaborates with DEFT Lab faculty on projects in digital finance and blockchain economics."
@@ -45,38 +45,18 @@
       "summary": "School of Economics and Management."
     }
   ],
-  "publications": [
-    {
-      "name": "Property Rights System of Land, Housing Price Structure and Wealth Inequality",
-      "publisher": "China Journal of Economics",
-      "releaseDate": "2025",
-      "summary": "With Danxia Xie, Buyuan Yang, and Qingquan Zhang."
-    },
-    {
-      "name": "Economic Analysis of Public Health Reform: Mechanisms and Policy Design for Optimal Resource Allocation between Prevention and Treatment",
-      "publisher": "China Journal of Economics",
-      "releaseDate": "2023",
-      "summary": "With Danxia Xie, Peilin Liu, and Buyuan Yang."
-    },
-    {
-      "name": "Platform Macro Risks and Platform Antitrust",
-      "publisher": "Financial Review",
-      "releaseDate": "2022",
-      "summary": "With Danxia Xie, Yao Li, and Liyang Yang."
-    }
-  ],
   "working papers": [
     {
       "name": "Crypto Value, Factor Pricing, and Market Segmentation",
       "publisher": "Management Science (revise and resubmit)",
       "releaseDate": "2022",
-      "summary": "With Lin William Cong, George Andrew Karolyi, and Ke Tang;<br>Best paper award at the 2023 National Doctoral Student Forum; <br>Best paper award at the 2022 EFMA Annual Meeting; <br>Best paper award at the 2021 Tel Aviv University Blockchain Research Institute Conference."
+      "summary": "With Lin William Cong, George Andrew Karolyi, and Ke Tang;<br>Best paper award at the 2023 National Doctoral Student Forum, First Prize; <br>Best paper award at the 2022 EFMA Annual Meeting; <br>Best paper award at the 2021 Tel Aviv University Blockchain Research Institute Conference."
     },
     {
       "name": "Asymmetric Cross-side Network Effects on Financial Platforms: Theory and Evidence from Marketplace Lending",
-      "publisher": "NBER Working Paper; submitted to Review of Financial Studies",
+      "publisher": "NBER Working Paper",
       "releaseDate": "2024",
-      "summary": "With Lin William Cong, Ke Tang, and Danxia Xie;<br>Best Paper Award at the 2024 China Tech-Fin Research Conference."
+      "summary": "With Lin William Cong, Ke Tang, and Danxia Xie;<br>Best Paper Award at the 2024 China Tech-Fin Research Conference, First Prize"
     },
     {
       "name": "Regulatory Sandboxes and FinTech Financing: Exposure Effect or Information Effect?",
@@ -85,30 +65,48 @@
       "summary": "With Xuemeng Sun, Qingquan Zhang, and Danxia Xie."
     }
   ],
+  "publications": [
+    {
+      "name": "Property Rights System of Land, Housing Price Structure and Wealth Inequality",
+      "publisher": "China Journal of Economics (in Chinese)",
+      "releaseDate": "2025",
+      "summary": "With Danxia Xie, Buyuan Yang, and Qingquan Zhang."
+    },
+    {
+      "name": "Economic Analysis of Public Health Reform: Mechanisms and Policy Design for Optimal Resource Allocation between Prevention and Treatment",
+      "publisher": "China Journal of Economics (in Chinese)",
+      "releaseDate": "2023",
+      "summary": "With Danxia Xie, Peilin Liu, and Buyuan Yang."
+    },
+    {
+      "name": "Platform Macro Risks and Platform Antitrust",
+      "publisher": "Financial Review (in Chinese)",
+      "releaseDate": "2022",
+      "summary": "With Danxia Xie, Yao Li, and Liyang Yang."
+    }
+  ],
   "awards": [
     {
       "title": "Best Paper Award, China Tech-Fin Research Conference",
       "date": "2024",
-      "awarder": "China Tech-Fin Research Conference",
-      "summary": "First Prize for Outstanding Paper."
+      "awarder": "Inaugural China Tech-Fin Research Conference (Shanghai)",
+      "summary": "Sole First Prize"
     },
     {
       "title": "Best Paper Award, National Doctoral Student Academic Forum in Finance",
       "date": "2023",
       "awarder": "7th National Doctoral Student Academic Forum in Finance",
-      "summary": "First Prize for Outstanding Paper."
+      "summary": "Sole First Prize"
     },
     {
-      "title": "WRDS-EFMA Best Conference Award",
+      "title": "EFMA-WRDS Conference Best Paper Award",
       "date": "2022",
-      "awarder": "European Financial Management Association",
-      "summary": "Recognized for research on crypto asset pricing."
+      "awarder": "European Financial Management Association"
     },
     {
       "title": "Best Paper Award, Tel Aviv University Blockchain Research Institute Conference",
       "date": "2021",
-      "awarder": "Tel Aviv University Coller School of Management",
-      "summary": "Awarded for work on blockchain finance."
+      "awarder": "Tel Aviv University Coller School of Management"
     },
     {
       "title": "Comprehensive and LIMU Scholarships",
@@ -156,15 +154,15 @@
     {
       "year": "2024",
       "events": [
-        { "name": "Cryptocurrency Research Conference", "details": "Tallinn, Estonia" },
+        { "name": "Cryptocurrency Research Conference", "details": "Dubai, UAE (virtual)" },
         { "name": "19th Conference on Asia-Pacific Financial Markets", "details": "Seoul, South Korea" },
-        { "name": "China Tech-Fin Research Conference", "details": "Beijing, China" }
+        { "name": "China Tech-Fin Research Conference", "details": "Shanghai, China" }
       ]
     },
     {
       "year": "2023",
       "events": [
-        { "name": "Conference on Asia-Pacific Financial Markets", "details": "Seoul, South Korea" }
+        { "name": "18th Conference on Asia-Pacific Financial Markets", "details": "Seoul, South Korea" }
       ]
     },
     {
@@ -172,12 +170,11 @@
       "events": [
         { "name": "FMA Annual Meeting", "details": "Atlanta, GA" },
         { "name": "ABFER Annual Conference", "details": "Singapore" },
-        { "name": "Asian Finance Association Annual Meeting", "details": "Tokyo, Japan" },
-        { "name": "China Fintech Research Conference", "details": "Beijing, China" },
-        { "name": "CBER Forum", "details": "Shanghai, China" },
+        { "name": "Asian Finance Association Annual Meeting", "details": "Hongkong, China (virtual)" },
+        { "name": "China Fintech Research Conference", "details": "Beijing, China (virtual)" },
         { "name": "EFMA Annual Meeting", "details": "Rome, Italy" },
-        { "name": "Summer Institute of Finance", "details": "Hong Kong, China" },
-        { "name": "UWA Blockchain and Cryptocurrency Conference", "details": "Perth, Australia" }
+        { "name": "Summer Institute of Finance", "details": "Shanghai, China" },
+        { "name": "UWA Blockchain and Cryptocurrency Conference", "details": "Perth, Australia (virtual)" }
       ]
     },
     {

@@ -8,4 +8,5 @@ cv_pdf: weiyi_zhao_cv.pdf
 description:
 toc:
   sidebar: left
+body_class: cv-wide
 ---
