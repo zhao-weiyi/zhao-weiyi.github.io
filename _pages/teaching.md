@@ -9,6 +9,8 @@ nav_order: 6
 
 ### Zhongnan University of Economics and Law
 - **Machine Learning and Quantitative Investment (Fall 2025)**
+- **Quantitative Investment (Spring 2026)**
+- **Empirical Asset Pricing (Spring 2026)**
 
 ### Tsinghua University – School of Social Sciences
 - **Intermediate Macroeconomics (Spring 2022 & 2023)**
