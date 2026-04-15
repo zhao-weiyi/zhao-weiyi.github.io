@@ -15,4 +15,4 @@ Focus areas:
 - Token issuance policy and cross-border regulatory sandboxes
 - Machine-learning diagnostics for systemic risk on digital platforms
 
-Representative outputs include the paper “Asymmetric Cross-side Network Effects on Financial Platforms” (NBER, 2024) and ongoing experiments measuring regulatory sandbox effects on FinTech financing.
+Representative outputs include the paper “FinTech Platforms and Asymmetric Network Effects” (NBER, 2024) and ongoing experiments measuring regulatory sandbox effects on FinTech financing.
