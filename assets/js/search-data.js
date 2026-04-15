@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-asymmetric-cross-side-network-effects-on-financial-platforms-theory-and-evidence-from-marketplace-lending-received-best-paper-sole-first-prize-at-the-2024-china-tech-fin-research-conference-shanghai",
-          title: '“Asymmetric Cross-side Network Effects on Financial Platforms: Theory and Evidence from Marketplace Lending”...',
+            },},{id: "news-fintech-platforms-and-asymmetric-network-effects-theory-and-evidence-from-marketplace-lending-received-best-paper-sole-first-prize-at-the-2024-china-tech-fin-research-conference-shanghai",
+          title: '“FinTech Platforms and Asymmetric Network Effects: Theory and Evidence from Marketplace Lending” received...',
           description: "",
           section: "News",},{id: "news-new-nsfc-grant-on-platform-token-risk-spillovers",
           title: 'New NSFC Grant on Platform Token Risk Spillovers',
