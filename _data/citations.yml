@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-05-13'
 papers:
   N5HhtJYAAAAJ:5nxA0vEk-isC:
-    citations: 79
+    citations: 81
     title: Value premium, network adoption, and factor pricing of crypto assets
     year: '2022'
   N5HhtJYAAAAJ:8k81kl-MbHgC:
@@ -14,6 +14,10 @@ papers:
     title: 'How Regulatory Sandboxes Shape FinTech Financing: Disentangling Attention and Information Channels'
     year: Unknown Year
   N5HhtJYAAAAJ:hqOjcs7Dif8C:
-    citations: 6
+    citations: 7
     title: 'FinTech platforms and asymmetric network effects: Theory and evidence from marketplace lending'
+    year: '2024'
+  N5HhtJYAAAAJ:kNdYIx-mwKoC:
+    citations: 4
+    title: "\u516C\u5171\u536B\u751F\u4F53\u7CFB\u6539\u9769\u7684\u7ECF\u6D4E\u5B66\u5206\u6790"
     year: '2024'
