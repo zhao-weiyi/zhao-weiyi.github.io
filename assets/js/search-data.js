@@ -43,7 +43,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-12-01-nsfc-grant/";
-            },},{id: "projects-cornell-deft-lab-collaborations",
+            },},{id: "news-crypto-value-factor-pricing-and-market-segmentation-was-published-online-in-management-science",
+          title: '“Crypto Value, Factor Pricing, and Market Segmentation” was published online in Management Science....',
+          description: "",
+          section: "News",},{id: "projects-cornell-deft-lab-collaborations",
           title: 'Cornell DEFT Lab Collaborations',
           description: "Joint research with Cornell&#39;s Digital Economy and Financial Technology Lab on cross-border financing and marketplace design.",
           section: "Projects",handler: () => {
